@@ -1,0 +1,112 @@
+{
+  "project": "Taiwanese 16-Tile Mahjong — Beginner's AI-Authored Wiki",
+  "status": "AI-authored from five curated English public-source summaries; manually evidence-checked; not an external hosted LLM Wiki engine",
+  "audience": "English-speaking learners with no previous mahjong knowledge",
+  "ingestion_type": "five distinct source-note files stored under sources/",
+  "chapters": [
+    {
+      "id": "W01",
+      "heading": "What is Taiwanese 16-tile mahjong?",
+      "body": "Taiwanese mahjong is commonly played by four people using a 144-tile set. Players ordinarily hold 16 structural tiles between turns; the dealer starts with 17 and discards first. Flowers are separate bonus tiles.",
+      "refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S05"
+      ]
+    },
+    {
+      "id": "W02",
+      "heading": "How do you win?",
+      "body": "A normal winning hand is five melds and one pair. Five three-tile melds plus a two-tile pair total 17 structural tiles. A kong uses four physical tiles, but counts as a single meld. Special hands exist and depend on the ruleset.",
+      "refs": [
+        "S01",
+        "S02",
+        "S04",
+        "S05"
+      ]
+    },
+    {
+      "id": "W03",
+      "heading": "Tile families",
+      "body": "Numbered tiles come in three suits: Characters, Dots and Bamboo. Winds and Dragons are honor tiles. Flowers and Seasons are bonus tiles that players expose and replace. The typical set contains 144 physical tiles.",
+      "refs": [
+        "S01",
+        "S02",
+        "S03"
+      ]
+    },
+    {
+      "id": "W04",
+      "heading": "How a turn works",
+      "body": "On a normal turn a player draws one tile, then discards one tile. A valid call or win may interrupt the usual order. A flower or a declared kong triggers a replacement draw.",
+      "refs": [
+        "S01",
+        "S03",
+        "S04"
+      ]
+    },
+    {
+      "id": "W05",
+      "heading": "Chow / Chi",
+      "body": "A chow consists of three consecutive numbered tiles in the same suit, such as 4–5–6 Bamboo. It is ordinarily claimed from the immediately preceding player's discard. Honor tiles cannot form a chow.",
+      "refs": [
+        "S03",
+        "S04",
+        "S05"
+      ]
+    },
+    {
+      "id": "W06",
+      "heading": "Pung / Pong",
+      "body": "A pung uses three identical tiles, such as East–East–East. A matching discard can ordinarily be claimed to finish a pung.",
+      "refs": [
+        "S03",
+        "S04"
+      ]
+    },
+    {
+      "id": "W07",
+      "heading": "Kong",
+      "body": "A declared kong has four identical physical tiles and counts as one meld. It requires a replacement draw. Details of claim eligibility differ among online and house rules.",
+      "refs": [
+        "S02",
+        "S04",
+        "S05"
+      ]
+    },
+    {
+      "id": "W08",
+      "heading": "Flowers and replacement",
+      "body": "Flowers and Seasons are bonus tiles rather than ordinary meld tiles. After exposing a bonus tile, the player draws a replacement according to the chosen rules.",
+      "refs": [
+        "S01",
+        "S02",
+        "S04"
+      ]
+    },
+    {
+      "id": "W09",
+      "heading": "Scoring varies: avoid false universals",
+      "body": "Tai, base payments and special-hand values differ across sites and tables. Mahjong Planet and Hé Fēn both describe no minimum tai for their published presets, but their points and payment formulas differ. Therefore, agree on a specific ruleset before calculating scores. Do not present one site's values as universal.",
+      "refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S05"
+      ],
+      "flag": "variation"
+    },
+    {
+      "id": "W10",
+      "heading": "Worked standard winning hand",
+      "body": "Example groups: Characters 1–2–3, Characters 5–5–5, Dots 4–5–6, Bamboo 7–8–9, East–East–East, and a Red Dragon pair. This is five melds plus one pair: 17 tiles.",
+      "refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04"
+      ]
+    }
+  ]
+}
